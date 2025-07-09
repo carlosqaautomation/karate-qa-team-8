@@ -72,3 +72,10 @@ When method get
     When method get
     Then status 401
 
+  Scenario: CP008
+    Given url https://api.qateamperu.com
+    And path '/api/v1/producto'
+    And header Accept = 'application/json'
+    When method get
+    Then status 401
+
