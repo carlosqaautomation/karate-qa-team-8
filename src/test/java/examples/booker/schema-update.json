@@ -1,0 +1,11 @@
+{
+  "firstname" : "#string? _.length == 5",
+  "lastname" : "#string",
+  "totalprice" : "#number ",
+  "depositpaid" : "#boolean",
+  "bookingdates" : {
+    "checkin" : "#string",
+    "checkout" : "#string"
+  },
+  "additionalneeds" : "#string"
+}
