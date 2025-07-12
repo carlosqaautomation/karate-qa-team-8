@@ -1,0 +1,7 @@
+firstname,lastname,totalprice,depositpaid,checkin,checkout,additionalneeds
+Paola,Asencios, 100, true, 2025-01-01,2025-01-08,Dinner
+Yani,Villarroel, 100, true, 2025-10-01,2025-10-08,Breakfast and Dinner
+Evelyn,Ayasta, 100, true, 2025-01-11,2025-11-08,Breakfast
+Raquel,San Miguel, 100, true, 2025-08-01,2025-08-08,Dinner
+Gloria,Sueng, 100, true, 2025-04-01,2025-04-08,Lunch
+Susan,Chang, 100, true, 2025-06-01,2025-06-08,Breakfast
