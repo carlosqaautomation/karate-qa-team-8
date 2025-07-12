@@ -1,0 +1,8 @@
+firstname,lastname,totalprice,depositpaid,checkin,checkout,additionalneeds
+carlos,zambrano,111,true,2018-01-01,2018-01-01,book
+jose,zambrano,112,true,2018-01-01,2018-01-01,book
+pedro,zambrano,113,true,2018-01-01,2018-01-01,book
+pepito,zambrano,121,true,2018-01-01,2018-01-01,book
+maria,zambrano,141,true,2018-01-01,2018-01-01,book
+joel,zambrano,161,true,2018-01-01,2018-01-01,book
+daniel,zambrano,181,true,2018-01-01,2018-01-01,book
